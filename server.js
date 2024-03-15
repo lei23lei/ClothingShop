@@ -12,13 +12,13 @@ app.use(session({
   resave: false,
   saveUninitialized: true,
   cookie: {
-    maxAge: 1000 * 60 * 5
+    maxAge: 1000 * 60 * 60 * 24 
   }
 }));
 
-app.use(express.json()); // Parse JSON request body
+app.use(express.json()); 
 app.use(cors({
-  origin: 'http://localhost:3000', // Replace with your React app's URL
+  origin: 'http://localhost:3000', 
   credentials: true,
 }));
 

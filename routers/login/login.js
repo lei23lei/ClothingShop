@@ -6,7 +6,6 @@ const url = "mongodb+srv://root:1234@cluster0.y0ac8pa.mongodb.net/";
 const databaseName = "Clothings";
 const collectionName = "users";
 
-// Create a single instance of MongoClient and connect to the MongoDB server
 const client = new MongoClient(url, {
     connectTimeoutMS: 10000,
     maxIdleTimeMS: 10000,
@@ -65,23 +64,19 @@ router.post('/signin', async (req, res) => {
     try {
         const { email, password } = req.body;
 
-        // Validate the data (you may want to perform more validation)
         if (!email || !password) {
             return res.status(400).json({ error: 'Incomplete data. Please provide email and password.' });
         }
 
         const db = client.db(databaseName);
 
-        // Check if the user with the provided email and password exists
         const user = await db.collection(collectionName).findOne({ email, password });
 
         if (user) {
             req.session.userId = user._id;
             console.log("signin successfull", req.session.userId);
-            // User found, send a success response
             res.json({ message: 'Sign-in successful!', userId: user._id });
         } else {
-            // User not found, send an error response
             res.status(401).json({ error: 'Invalid email or password.' });
         }
     } catch (error) {
@@ -94,21 +89,17 @@ router.get('/islogin', async (req, res) => {
     res.setHeader('Access-Control-Allow-Origin', '*');
 
     try {
-        // Check if there is a valid userId in the session
         if (req.session.userId) {
             const client = new MongoClient(url);
             await client.connect();
 
             const db = client.db(databaseName);
 
-            // Find the user based on the userId
             const user = await db.collection(collectionName).findOne({ _id: new ObjectId(req.session.userId) });
 
-            // Close the connection
             await client.close();
 
             if (user) {
-                // Respond with user information
                 res.json({
                     isLogin: true,
                     userInfo: {
@@ -141,7 +132,7 @@ router.post('/signout', async (req, res) => {
             } else {
                 res.json({ message: 'Sign-out successful!' });
             }
-        }); // This is where the closing parenthesis was missing
+        }); 
     } catch (error) {
         console.error('Error in signout:', error);
         res.status(500).json({ error: 'Internal Server Error' });
