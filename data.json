@@ -1,0 +1,128 @@
+[
+    {
+      "name": "Dickies Reversible Jacket",
+      "type": "men",
+      "position": "tops",
+      "price": 45,
+      "image": [
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/433469363_122109533486240217_8688033417570606915_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DkzJqdrRVSkAX-U2sx7&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDRY3NbiwzUCn_PurS5eWND_LDY-CZsl-yTg-_rRF3xhw&oe=65FD5251",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/433477059_122109533468240217_537460180899708805_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UF_WT5BwN7sAX8xk2f9&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDhjBWJ99AA4k283TJ_Y2_IYujJ5WL6ZdBzy7ftU46jvQ&oe=65FC2759",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/433634848_122109533864240217_6774958345131072424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=HUzlrTefXykAX-sPCco&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCe-Yw_SrUySi61UBmv1uxCqOBv1zEcbBQY3ubT7SflRA&oe=65FCE328"
+      ],
+      "size":"S",
+      "description": "A durable, versatile, and stylish outerwear piece, embodying the brand's iconic design with functional features for everyday wear.",
+      "number": 73
+    },
+    {
+      "name": "Nike White Sweater",
+      "type": "men",
+      "position": "tops",
+      "price": 80,
+      "image": [
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/431997283_122109532910240217_8491075184827791775_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=E_9TeJRS9jQAX_45ebS&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCdygUsZGYye7_t6c3Ze3gnJorwEW0zUz_yDD8SN-hjtg&oe=65FCFB00",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/433434535_122109533030240217_6342409733750671038_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dtFHYX_7pfsAX_2HwsL&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCFEI88ohwM8x4GzAQPW0X8b6WUPvECQb3OwyikAhDm9w&oe=65FC0990",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/432012956_122109532994240217_2614461113939131913_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yLm0tX7F6M0AX-9oj7b&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDv4BLt5vcES_hoXu7njzwjZ40BUcU7Pu4emLCqbLOggw&oe=65FCC79A"
+      ],
+      "size":"S",
+      "description": "The white Nike sweater is a cozy essential for winter, providing warmth and style. With its iconic design, it merges comfort and fashion seamlessly, making it perfect for any occasion.",
+      "number": 28
+    },
+    {
+      "name": "Brown Jacket",
+      "type": "men",
+      "position": "tops",
+      "price": 30,
+      "image": [
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/431985462_122109533198240217_5312654330044718463_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=MCvxmiEpHAYAX-06o8e&_nc_ht=scontent-yyz1-1.xx&oh=00_AfD4-nlVwG8v64z7XR4dfKmtxcGhUwcOy34atCi6EvnIVw&oe=65FD1632",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/432001301_122109533066240217_4261782709248656320_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=443WcnbfWjgAX-TxFqm&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDBIspR0wYoLjgOZedPUnIli8ZvhhuGnRFnGVa2zOOEvQ&oe=65FC463F",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/423132525_122109533174240217_8266419168031357094_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Me2XjYqpSqgAX_vTueb&_nc_ht=scontent-yyz1-1.xx&oh=00_AfA_9NFMpce6Q1WGOvNJRmzPAjRl2D04BOLnMcC_1Jbs7Q&oe=65FD1CED"
+      ],
+      "size":"M",
+      "description": "A brown jacket, warm and stylish, exudes timeless charm. Its rich hue complements various outfits, while the durable construction ensures both comfort and enduring fashion versatility",
+      "number": 49
+    },
+    {
+      "name": "UA Hockey Warm Up Jacket",
+      "type": "men",
+      "position": "tops",
+      "price": 30,
+      "image": [
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/432080281_122109532646240217_1769564556669716550_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=2S-YGaKiaZwAX86tiuv&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCxnGuQzfHUoSeFRXZXxxjymMMBmKr-SIm0UJfDPFhSrQ&oe=65FBA89C",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/433438242_122109532610240217_776183681271924492_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gzh0D1Q5aQkAX-zbpVN&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBokPs35I_0618ZJGK_Y2ICevbrsze0Qf3fIpZKZLfQ0g&oe=65FBAC3A",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/432012960_122109532628240217_1996096663982770567_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mwZXpFLbHxEAX_rQO2Z&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCynb4rH86lMDbDgNgSYT7eetkKGE6kItyQvWSi5ekO1g&oe=65FD3914"
+      ],
+      "size":"M",
+      "description": "UA Storm technology repels water without sacrificing breathability Stretch-woven fabric is tough but lightweight. 4-way stretch material moves better in every direction",
+      "number": 65
+    },
+    {
+      "name": "NORWAY Warm Sweater",
+      "type": "men",
+      "position": "tops",
+      "price": 60,
+      "image": [
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/433584021_122109532670240217_5748253459133833284_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=LIx1Q2ny6VIAX_6fmUQ&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDbZQfc40WCGMr0K9oaCmyHd_2fLZ2Y61-ee7riSCtMlg&oe=65FD0593",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/432004166_122109532850240217_3737805942795883633_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Pc0ICHGbYwoAX8ZnZtu&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCsTFDOjbC4tDhoO5U-PES-yRyl60CQWLxWxEDi9cH2ig&oe=65FD541A",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/433446547_122109532832240217_2811149632655600825_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=q-bnMv7g36kAX-yrdki&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDsXx79ZnwN3ySUqi1x0yOjoA2sei-LEUYdgHNdOsd5KA&oe=65FC5972"
+      ],
+      "size":"M",
+      "description": "The NORWAY Warm Sweater is a cozy essential, blending Nordic-inspired design with exceptional warmth. Crafted for comfort and style, it's perfect for chilly days and outdoor adventures.",
+      "number": 37
+    },
+    {
+      "name": "GAP Grey Jacket",
+      "type": "men",
+      "position": "tops",
+      "price": 30,
+      "image": [
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/423312322_122109533822240217_6997863086982613780_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Q-HGj44K6GgAX852Quq&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAYVEmCpnPuFQiI8JcTww2BggTNxdF52VZ4HXPUaQLp1Q&oe=65FBD849",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/432084792_122109533504240217_7702465714607112765_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=aiFUy2VAEEgAX9KL2YK&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAmuOy2x2g0ouNfeAzlUjXbX4vm28tRwkdUQDxr1nGpVA&oe=65FCFD32",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/433439600_122109533840240217_3778328666491763781_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=fUxwiNadEsQAX_WrRuV&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDuXr-IxnkQI0DypmGOWn81Kis-9DT4MO8Pyg3Cf9VFbw&oe=65FC5EF1"
+      ],
+      "size":"S",
+      "description": "The GAP Grey Jacket is a sleek and versatile outerwear piece. With its neutral hue and modern design, it effortlessly elevates any ensemble, offering both style and comfort.",
+      "number": 52
+    },
+    {
+      "name": "Loose Jeans GAP",
+      "type": "men",
+      "position": "bottoms",
+      "price": 30,
+      "image": [
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/432070621_122109533564240217_2910179594995906847_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RVaG2Tr5wb0AX8OdWy-&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBwSENXMdt5JFpJtG9-mioxGciOGxHGc_HiZbwV4icaeQ&oe=65FCCEFD",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/433459623_122109533606240217_4459030013791755302_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8WqlyGvm4noAX9wohyq&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDJczVgwWayhPw6Od2GO1D_S6r2AxoQG3L46lvqJdb1Qg&oe=65FD6DA6",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/432270060_122109533636240217_4370739313786160134_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JZS7ZwlWWBAAX-2jhRX&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCYR9Z7xpLHh8ju-zjveRR-xFuDAELXhH3vO-rNxKUsQA&oe=65FC7271"
+      ],
+      "size":"S",
+      "description": "In navy provide timeless, casual style. The relaxed fit durable denim, and versatile appeal ensure comfort and fashion. Effortless, cool, and classic for everyday wear.",
+      "number": 41
+    },
+    {
+      "name": "Luca Ferri Boots",
+      "type": "men",
+      "position": "shoes",
+      "price": 30,
+      "image": [
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/433479842_122109534092240217_339888032320174282_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9cZHFvnhWYUAX-ROujg&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBGt-VlXKmzdSNiUOWwx7zrWW6Tk3E09rtIGUreUtIypg&oe=65FCD90D",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/433436271_122109533924240217_7229926185379205290_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=BvKvWZWfVOgAX91j4wF&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCoaBAGMethVzaOHffl0BE0KJL5919SmknkV1CV0IU8fQ&oe=65FD62A4",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/432041181_122109534044240217_788617129344664177_n.jpg?stp=cp6_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TFSzbVp8PNEAX85JpOd&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAD_W0YkggQh-XeyRTCKZ-eYQXB5DvzYeNV9tG8N9sSwg&oe=65FBB9EA"
+      ],
+      "size":"US11",
+      "description": "Distressed brown leather, stylish and versatile Luca Ferri boots. US11 Only worn once, selling because they're too large for me. Practically brand new.",
+      "number": 19
+    },
+    {
+      "name": "Galanz 1.7 Fridge W",
+      "type": "others",
+      "position": "electric",
+      "price": 70,
+      "image": [
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/432045032_122109534722240217_8311685250089135184_n.jpg?stp=dst-jpg_p960x960&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ZnHZw1c2p2gAX-30pgT&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCaKHmutvcK8auz1A2PAgOPXTHWCq3xbzyfgi04qtcg6A&oe=65FCCE01",
+        "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/432049082_122109534740240217_2018238917873487009_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=thM_sd8ltg4AX9o3n0_&_nc_ht=scontent-yyz1-1.xx&oh=00_AfA5aMRZlaNOX1NqBGbVcaMCxFhow5zRQFAfZCXTBCYbAw&oe=65FD3BE5"
+      ],
+      "size":"19*17.5*19.5 inch",
+      "description": "This Galanz 1.7 cu ft Single Door mini fridge features a chiller compartment, 2 adjustable leveling legs and a convenient reversible door that allows you to choose to open from the left or right side making the Galanz 1.7 Cu ft Single Door mini fridge suitable for any layout.",
+      "number": 13
+    }
+  ]
+  
