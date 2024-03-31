@@ -16,7 +16,6 @@ router.get('/item', async (req, res) => {
 
         // Retrieve all items from the collection
         const items = await db.collection(collectionName).find({}).toArray();
-
         // Close the connection
         await client.close();
 
