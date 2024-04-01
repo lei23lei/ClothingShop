@@ -18,7 +18,7 @@ router.get('/item', async (req, res) => {
         const items = await db.collection(collectionName).find({}).toArray();
         // Close the connection
         await client.close();
-
+        console.log(items);
         // Send the items as a JSON response
         res.json(items);
     } catch (error) {

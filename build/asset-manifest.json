@@ -1,14 +1,40 @@
 {
   "files": {
     "main.css": "/static/css/main.b868e6eb.css",
-    "main.js": "/static/js/main.f229ee5d.js",
+    "main.js": "/static/js/main.046943be.js",
     "static/media/home.jpg": "/static/media/home.e344bd5ce345946ee3d1.jpg",
+    "static/media/shoe3.jpg": "/static/media/shoe3.a1babf7a0df4796fbf93.jpg",
+    "static/media/shoe2.jpg": "/static/media/shoe2.ad84734f9e18e863178d.jpg",
+    "static/media/shoe1.jpg": "/static/media/shoe1.05579fe786efad52967c.jpg",
+    "static/media/pant3.jpg": "/static/media/pant3.9bd5c130296b48c801d6.jpg",
+    "static/media/clothing53.jpg": "/static/media/clothing53.27bd6810d4fac6afad3b.jpg",
+    "static/media/clothing63.jpg": "/static/media/clothing63.f13766d565bb2302009a.jpg",
+    "static/media/clothing13.jpg": "/static/media/clothing13.4bb283a9ccff96a80a63.jpg",
+    "static/media/clothing33.jpg": "/static/media/clothing33.e7565df7a7825f31bf46.jpg",
+    "static/media/clothing52.jpg": "/static/media/clothing52.f26af9dc10cf8d733409.jpg",
+    "static/media/pant1.jpg": "/static/media/pant1.476195a640985b5ed3ed.jpg",
+    "static/media/pant2.jpg": "/static/media/pant2.47387c1a46c6b642f058.jpg",
+    "static/media/clothing22.jpg": "/static/media/clothing22.bacd3a4dca04b9a7528d.jpg",
+    "static/media/clothing21.jpg": "/static/media/clothing21.d15715d6ef5497dcccd4.jpg",
+    "static/media/clothing51.jpg": "/static/media/clothing51.173ffd0a029e2bb6efcf.jpg",
+    "static/media/clothing31.jpg": "/static/media/clothing31.8cd1e2606b29c4b10106.jpg",
+    "static/media/clothing23.jpg": "/static/media/clothing23.a73fb898fc2517afe1b5.jpg",
+    "static/media/clothing61.jpg": "/static/media/clothing61.a68877c4026773f6ef67.jpg",
+    "static/media/clothing12.jpg": "/static/media/clothing12.8fa0b284689b0a1b0fd2.jpg",
+    "static/media/clothing62.jpg": "/static/media/clothing62.73f45103cefa7349b0f5.jpg",
+    "static/media/clothing11.jpg": "/static/media/clothing11.bb519a59adf51fc61b5e.jpg",
+    "static/media/clothing32.jpg": "/static/media/clothing32.a39fb7032e219b069b69.jpg",
+    "static/media/clothing41.jpg": "/static/media/clothing41.eb62fd6a3eb61845967e.jpg",
+    "static/media/clothing43.jpg": "/static/media/clothing43.99174e8f783dd8e672c1.jpg",
+    "static/media/clothing42.jpg": "/static/media/clothing42.597686156a3413d80276.jpg",
+    "static/media/fridge1.jpeg": "/static/media/fridge1.f1930b3746377d660abe.jpeg",
+    "static/media/fridge2.jpeg": "/static/media/fridge2.8bd9fcdffffab8db9144.jpeg",
     "index.html": "/index.html",
     "main.b868e6eb.css.map": "/static/css/main.b868e6eb.css.map",
-    "main.f229ee5d.js.map": "/static/js/main.f229ee5d.js.map"
+    "main.046943be.js.map": "/static/js/main.046943be.js.map"
   },
   "entrypoints": [
     "static/css/main.b868e6eb.css",
-    "static/js/main.f229ee5d.js"
+    "static/js/main.046943be.js"
   ]
 }
